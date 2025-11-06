@@ -1,0 +1,37 @@
+Build an AI-powered, interactive toolkit named "Web3PulseAI" for monitoring, analyzing, and engaging with Web3 and blockchain projects through Twitter activity.
+
+The application should have the following core features:
+
+1.  **Real-Time Twitter Data Extraction:**
+    *   Automatically collect tweet data from any specified blockchain/Web3 project Twitter account.
+    *   Support for public APIs and custom data sources.
+    *   Real-time updates on project activity and community interactions.
+
+2.  **Multi-Dimensional AI Analysis:**
+    *   **Sentiment Analysis:** Measure community sentiment and emotional responses to project updates.
+    *   **Community Vibe Detection:** Understand the overall tone and energy of the community.
+    *   **Trend Analysis:** Identify emerging topics and trending discussions relevant to the project.
+    *   **Technical Analysis:** Deep dive into technical discussions and development focus areas.
+    *   **User Behavior Insights:** Analyze engagement patterns and user interactions.
+
+3.  **Project Profiling:**
+    *   Graphical identity and design system analysis.
+    *   Post tone and writing style characterization.
+    *   Recent events and updates tracking.
+    *   Key topics and focus areas identification.
+    *   Community sentiment and project vibe assessment.
+
+4.  **AI-Powered Content Generation:**
+    *   Generate Twitter posts (single tweets and threads) optimized for algorithmic visibility.
+    *   Create visual content prompts and design guidance.
+    *   Generate prompts for social media managers and content creators.
+    *   Ensure content aligns with project branding and community expectations.
+    *   Output formatted for maximum Twitter algorithm engagement.
+
+5.  **Interactive Web & Mobile UI:**
+    *   A user-friendly interface for accessing AI insights.
+    *   A real-time dashboard for monitoring project metrics.
+    *   Content generation and preview capabilities.
+    *   A responsive design for both web and mobile platforms.
+
+The application should be built with a modern technology stack, including a Node.js or Python backend, a React or Vue.js frontend, and a PostgreSQL or MongoDB database. The application should also be designed for scalability and deployed using Docker and Kubernetes.
